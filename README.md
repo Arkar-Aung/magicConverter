@@ -12,3 +12,9 @@ Magic Converter also use Parabaik converter.
 ###Contribution
 
 Feel free to use, contribute and pull requests also are welcome
+
+###Usage
+
+Press right click on the text which you want to convert.
+
+<img src="magicConverter.png" alt="screenshot" />
