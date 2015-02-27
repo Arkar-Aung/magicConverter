@@ -4,8 +4,8 @@ var regexUni = new RegExp("[ဃငဆဇဈဉညဋဌဍဎဏဒဓနဘရ�
 self.on("click", function (node, type) {
 	if (node.value != null) {
 		node.value = convertIt(node.value, type, true);
-	} else if (node.innerHTML != null) {
-		node.innerHTML = convertIt(node.innerHTML, type, false);
+	} else if (node.textContent != null) {
+		node.textContent = convertIt(node.textContent, type, false);
 	}
 });
 

@@ -6,7 +6,8 @@ Inspired <a href="https://github.com/swanhtet1992/MagicButton">Magic Button Chro
 
 ###Converter
 
-Magic Converter also use Parabaik converter.
+Magic Converter also use <a href="https://github.com/ngwestar/parabaik">Parabaik</a> for conversion and use
+regular expression to check Myanmar text and unicode from <a href="https://github.com/saturngod/Tagu-firefox">Tagu</a>.
 
 
 ###Contribution
@@ -15,6 +16,6 @@ Feel free to use, contribute and pull requests also are welcome
 
 ###Usage
 
-Press right click on the text which you want to convert.
+Press right click on the text which you want to convert. It works on either input or text on webpage.
 
 <img src="magicConverter.png" alt="screenshot" />
