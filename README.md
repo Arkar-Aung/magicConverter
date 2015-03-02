@@ -14,6 +14,17 @@ regular expression to check Myanmar text and unicode from <a href="https://githu
 
 Feel free to use, contribute and pull requests also are welcome
 
+
+###Installation
+
+Make sure you've installed firefox addon sdk.
+
+	$ git clone https://github.com/Arkar-Aung/magicConverter.git
+    $ cd magicConverter
+    $ cfx run
+   
+You can directly install it from mozilla addon site : <a href="https://addons.mozilla.org/en-US/firefox/addon/magicconverter/">Magic Converter</a>
+
 ###Usage
 
 Press right click on the text which you want to convert. It works on either input or text on webpage.
